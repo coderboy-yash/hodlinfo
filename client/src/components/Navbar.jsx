@@ -182,7 +182,7 @@ const Navbar = () => {
         <div>
           <button className="flex justify-center items-center gap-3 bg-[#3dc6c1] text-white p-2 rounded-lg">
             <img className="h-5" src={telegram} alt="" />
-            CONNECT TELEGRAM
+            Connect Telegram
           </button>
         </div>
         <div>
