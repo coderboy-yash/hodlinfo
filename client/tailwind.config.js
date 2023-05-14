@@ -4,6 +4,7 @@ export default {
   theme: {
     fontFamily: {
       Oswald: ["Oswald"],
+      InstrumentSans: ["Instrument Sans"],
     },
     extend: {},
   },
